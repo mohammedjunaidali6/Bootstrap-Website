@@ -1,0 +1,34 @@
+.bg-dark {
+    background-color: black;
+}
+
+.container.py-5 {
+    background-color: black;
+}
+
+section#home {
+    background-color: black;
+}
+div#home1 {
+    background: none;
+}
+
+section#learn {
+    background-color: black;
+}
+
+div#cc {
+    background-color: #0d6efd!important;
+}
+
+div#bla {
+    background-color: white;
+}
+
+div#bbb {
+    background-color: white;
+}
+
+nav#navv {
+    background-color: black;
+}
